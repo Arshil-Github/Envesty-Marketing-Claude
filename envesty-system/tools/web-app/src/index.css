@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+}
+
+/* Export route — full bleed, no scroll, no chrome.
+   Templates set their own background. */
+.export-stage {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}

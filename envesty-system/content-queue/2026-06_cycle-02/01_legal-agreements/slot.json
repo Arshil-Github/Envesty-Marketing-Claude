@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "cycle": "2026-06_cycle-02",
+    "slot": "01_legal-agreements",
+    "topic": "5 legal agreements every Indian founder must have before a deal blows up",
+    "audience": "First-time founders registering a Pvt Ltd or LLP in India",
+    "pillar": "education",
+    "template": "T01_Cover",
+    "format": "carousel"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "template": "T01_Cover",
+      "headline": "5 agreements every Indian founder must have.",
+      "subhead": "Most founders discover the gap when a deal falls through."
+    },
+    {
+      "type": "stat",
+      "template": "T02_BigStat",
+      "stat": "1 missing clause",
+      "subhead": "That's all it takes for a co-founder dispute to freeze your company — bank accounts, domain, everything locked."
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "Agreement 1 — Co-Founder / Shareholders Agreement",
+      "left": {
+        "label": "Without it",
+        "body": "Partner stops working but keeps 50% equity. You can't sell, can't shut down, can't move on."
+      },
+      "right": {
+        "label": "With it",
+        "body": "Reverse vesting, buy-back price formula, and a dispute mechanism — defined before there's a dispute."
+      }
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "Agreement 2 — IP Assignment Agreement",
+      "left": {
+        "label": "Without it",
+        "body": "Domain, brand name, and codebase in a co-founder's personal name. They leave — your brand has no legal owner."
+      },
+      "right": {
+        "label": "With it",
+        "body": "All IP transferred to the company on day 1. Future employee and vendor work contractually assigned too."
+      }
+    },
+    {
+      "type": "quote",
+      "template": "T04_Quote",
+      "headline": "The other 3: Privacy Policy (DPDP Act 2023 makes it mandatory). Terms of Service (defines your liability limits). Employment / Vendor NDA (work product stays with the company when people leave). None of these need to be expensive. They need to exist.",
+      "attribution": "Envesty, est. Feb 2025"
+    },
+    {
+      "type": "cta",
+      "template": "T05_CTA",
+      "headline": "Comment AGREEMENTS below.",
+      "body": "I'll DM you the checklist we walk every new client through — all 5 documents with the specific clauses to include."
+    }
+  ],
+  "caption": "5 legal agreements every Indian founder must have — and most skip all of them.\n\nThe one that causes the most damage: the Co-Founder Agreement.\n\nYour standard MOA won't cover what happens when a partner stops contributing but keeps 50% equity. You need:\n→ Reverse vesting (what happens to their shares if they leave early)\n→ Buy-back price formula (so there's no fight about valuation later)\n→ Dispute resolution mechanism (so one disagreement doesn't deadlock the whole company)\n\nThe other four:\n→ IP Assignment Agreement (domain + brand + code owned by the company, day 1)\n→ Privacy Policy (DPDP Act 2023 makes this a legal requirement for Indian businesses collecting user data)\n→ Terms of Service (defines what you're liable for — critical if you serve international clients)\n→ Employment / Vendor NDA (work product belongs to the company when people leave)\n\nNone of these need to be expensive. They need to exist.\n\nComment AGREEMENTS below — I'll DM you the exact checklist we use at Envesty for every new client setup.\n\n#IndianFounders #StartupIndia #BusinessSetup #LegalAdvice #PvtLtd #Compliance #FounderLife",
+  "hooks": [
+    "One missing clause can freeze your company's bank account. Here's which one.",
+    "Your co-founder agreement protects you from your co-founder — not just from the outside world."
+  ],
+  "cta": "Comment AGREEMENTS and I'll DM you the checklist we use at Envesty for every new client setup.",
+  "sources": [
+    "https://www.instagram.com/reel/DRUpU33j_DS",
+    "https://www.meity.gov.in/data-protection-framework"
+  ]
+}

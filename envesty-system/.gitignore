@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+.DS_Store
+output/**/carousel/*.png
+raw-scrapes/*.json
+dist/

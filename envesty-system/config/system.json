@@ -1,0 +1,13 @@
+{
+  "post_type": "linkedin_static",
+  "output": {
+    "width": 1080,
+    "height": 1350
+  },
+  "default_slide_count": 6,
+  "default_template": "T01_Cover",
+  "ports": {
+    "server": 4001,
+    "vite": 5273
+  }
+}

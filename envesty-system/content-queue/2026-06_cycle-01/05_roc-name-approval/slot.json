@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "cycle": "2026-06_cycle-01",
+    "slot": "05_roc-name-approval",
+    "topic": "What RoC-Kanpur actually checks before approving your company name",
+    "audience": "First-time founders applying for Pvt Ltd name reservation",
+    "pillar": "education",
+    "template": "T01_Cover"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "template": "T01_Cover",
+      "headline": "What RoC-Kanpur actually checks before approving your company name.",
+      "subhead": "Most founders don't know step 3 exists."
+    },
+    {
+      "type": "stat",
+      "template": "T02_BigStat",
+      "stat": "3 of 5",
+      "subhead": "Name reservation applications that need resubmission — usually for the same avoidable reason."
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "Names that get rejected vs. names that sail through",
+      "left": {
+        "label": "Rejected — common reasons",
+        "body": "Too generic: standalone use of India, Digital, Tech, Solutions, Services\nSounds like a government body or bank\nToo similar to an existing registered company name on MCA\nConflicts with a live trademark on IP India"
+      },
+      "right": {
+        "label": "Approved — what works",
+        "body": "Coined or distinctive word + descriptor (e.g. Envesty Solutions)\nPasses MCA's company name availability search\nPasses IP India trademark database check\nObject clause in MOA doesn't conflict with restricted activities"
+      }
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "The step most guides skip — the MOA object clause review",
+      "left": {
+        "label": "What most guides say",
+        "body": "Step 1: File SPICe+ with your preferred name.\nStep 2: Wait for MCA approval.\nDone."
+      },
+      "right": {
+        "label": "What actually happens",
+        "body": "The RoC officer manually reads your MOA object clause. If the business activity described conflicts with a restricted activity or a licensed sector, the name rejects — even if the name itself is unique and the spelling is fine."
+      }
+    },
+    {
+      "type": "quote",
+      "template": "T04_Quote",
+      "headline": "We run the MCA search, IP India check, and restricted-words list before we file anything. The goal is one-shot approval.",
+      "attribution": "Sushant Choudhury, Co-founder Envesty"
+    },
+    {
+      "type": "cta",
+      "template": "T05_CTA",
+      "headline": "Have a name in mind?",
+      "body": "Reply with your proposed company name and I'll tell you if it has flags before you file. Takes 5 minutes. Saves 2 weeks."
+    }
+  ],
+  "caption": "What RoC-Kanpur actually checks before approving your company name.\n\nMost founders don't know step 3 exists.\n\nHere's the full checklist the officer runs — not what the MCA portal implies:\n\n1. Is the name unique on the MCA company name database?\n2. Does it conflict with a live trademark on IP India?\n3. Does the MOA object clause describe a restricted or licensed activity? (banking, insurance, NBFC, pharma — each has a separate approval process)\n4. Does the name use restricted words — India, National, Government, Bank, Exchange — without regulatory permission?\n5. Is the name too generic to be distinctive? (Tech Solutions Private Limited gets flagged)\n\nThe portal accepts the form after step 1. The officer checks steps 2–5 manually.\n\nThat's where most resubmissions come from.\n\nWe run all 5 checks before we file anything — because a clean first submission is faster than a resubmission with corrections.\n\nReply with your proposed company name. I'll tell you if it has flags before you file.\n\n#PvtLtd #CompanyRegistration #MCA #IndiaStartup #Compliance #RoC #Founder",
+  "hooks": [
+    "Your company name passed the MCA search. The RoC officer still rejected it. Here's why.",
+    "5 checks the RoC runs before approving your company name — most guides cover 1.",
+    "The one step in name reservation that nobody explains — and that causes most resubmissions."
+  ],
+  "cta": "Reply if you're navigating this — happy to share the checklist we use.",
+  "sources": []
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [],
+  "_schema": {
+    "filename": "original filename",
+    "category": "guides | knowledge | misc",
+    "path": "relative path from asset-library/ root",
+    "description": "one sentence: what this file contains",
+    "tags": ["lowercase", "tags", "for", "retrieval"],
+    "type": "file mime category, e.g. text/markdown, pdf/guide, image/screenshot",
+    "usable_for": ["reels", "carousels", "compliance", "founder-story", "etc"],
+    "added": "YYYY-MM-DD"
+  }
+}

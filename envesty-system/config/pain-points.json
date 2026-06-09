@@ -1,0 +1,46 @@
+{
+  "_doc": "Keyword prefilter for Reddit. A post must match at least one keyword (case-insensitive word-boundary) in its title or body to reach the AI scorer. Edit freely. Empty list = no prefilter (everything passes through). Skill envesty-system-control can append from chat.",
+  "pillars": {
+    "legal": [
+      "incorporation", "incorporate", "pvt ltd", "private limited", "llp",
+      "company registration", "register a company", "register my company",
+      "gst", "tds", "compliance", "roc", "mca",
+      "moa", "aoa", "din", "dsc",
+      "tax filing", "itr", "tax return", "audit",
+      "legal advice", "legal advisory", "founder agreement", "shareholder agreement",
+      "trademark", "ip protection", "ipr", "patent",
+      "dpdp", "data protection"
+    ],
+    "technology": [
+      "web development", "web app", "saas", "build a saas",
+      "mvp", "build my mvp", "no-code", "no code",
+      "ai automation", "ai agent", "automation",
+      "ui ux", "ui/ux", "design system",
+      "freelancer", "freelance developer", "dev agency", "development agency",
+      "tech stack", "first developer", "ctos"
+    ],
+    "marketing": [
+      "marketing agency", "growth hack", "growth hacking", "lead generation",
+      "seo", "google ranking", "social media marketing", "smm",
+      "performance marketing", "ad spend", "facebook ads", "meta ads",
+      "linkedin", "content strategy", "personal brand",
+      "branding", "brand identity", "logo", "positioning"
+    ],
+    "consultation": [
+      "first time founder", "first-time founder", "solo founder", "solopreneur",
+      "validate idea", "idea validation", "market research",
+      "business plan", "business model",
+      "fundraising", "investor", "vc", "angel investor",
+      "msme", "startup india", "seed fund",
+      "co-founder", "cofounder", "virtual cofounder", "fractional",
+      "scaling", "scale my business", "burning out"
+    ],
+    "negative_geo": [
+      "india", "indian", "noida", "delhi ncr", "bangalore", "mumbai",
+      "pune", "hyderabad", "chennai", "gurgaon", "gurugram",
+      "ncr", "uttar pradesh", "tier 2", "tier 3"
+    ]
+  },
+  "require_geo_match": false,
+  "_require_geo_match_doc": "If true, a post must match at least one negative_geo term AND at least one pillar term. Useful when Envesty wants to laser-focus on Indian founders only. If false, geo terms simply boost relevance via the AI prompt, but English-language posts about generic founder pain still pass."
+}

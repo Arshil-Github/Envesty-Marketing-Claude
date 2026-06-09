@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "cycle": "2026-06_cycle-01",
+    "slot": "01_pvt-ltd-documents",
+    "topic": "12 documents the ROC actually needs before your Pvt Ltd application",
+    "audience": "First-time founders registering a Pvt Ltd",
+    "pillar": "education",
+    "template": "T01_Cover"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "template": "T01_Cover",
+      "headline": "12 documents the ROC actually wants before your Pvt Ltd application.",
+      "subhead": "Skip one and your application stalls."
+    },
+    {
+      "type": "stat",
+      "template": "T02_BigStat",
+      "stat": "4–6 weeks",
+      "subhead": "Average delay when DSC and DIN aren't sequenced before the main MCA filing. The form accepts — the RoC officer doesn't."
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "What most guides list vs. what RoC-Kanpur actually checks",
+      "left": {
+        "label": "What guides tell you",
+        "body": "PAN, Aadhaar, address proof, passport photos. File SPICe+ and wait."
+      },
+      "right": {
+        "label": "What the officer reviews",
+        "body": "DSC validity, DIN status, name availability on MCA + IP India, MOA object clause vs. restricted activities list, subscriber sheet notarization."
+      }
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "The 12 documents — split by who prepares them",
+      "left": {
+        "label": "Founder prepares (7)",
+        "body": "1. PAN card\n2. Aadhaar\n3. Passport-size photo\n4. Address proof (utility bill <2 months)\n5. Specimen signature\n6. Email + mobile OTP for DSC\n7. Registered office address proof"
+      },
+      "right": {
+        "label": "CS/agent prepares (5)",
+        "body": "8. DSC (Class 3)\n9. DIN (if first directorship)\n10. RUN or SPICe+ Part A (name reservation)\n11. MOA + AOA drafts\n12. INC-9 declaration"
+      }
+    },
+    {
+      "type": "quote",
+      "template": "T04_Quote",
+      "headline": "The MCA portal accepts your form. Then the RoC officer manually reviews the MOA — that's where most rejections hide.",
+      "attribution": "Sushant Choudhury, Co-founder Envesty"
+    },
+    {
+      "type": "cta",
+      "template": "T05_CTA",
+      "headline": "Want the full checklist?",
+      "body": "Comment DOCS and I'll DM you the 12-document checklist we give every founder on day 1. No form, no follow-up call required."
+    }
+  ],
+  "caption": "12 documents the ROC actually wants before your Pvt Ltd application.\n\nMost first-time founders come in with PAN, Aadhaar, and a photo — and think that's it.\n\nIt isn't.\n\nHere's what actually gets checked when your SPICe+ form lands with the RoC officer:\n\n→ DSC (Class 3) — valid and not expired\n→ DIN — active for each director\n→ Name availability — MCA search + IP India trademark check\n→ MOA object clause — cross-referenced against the RoC's restricted activities list\n→ Subscriber sheet — properly notarized, not just signed\n\nThe MCA portal will accept a form that's missing half of this. The officer won't.\n\nThat's where 4–6 week delays come from. Not the govt. Your prep.\n\nComment DOCS and I'll DM you the full 12-document checklist we walk every founder through on day 1.\n\n#PvtLtd #CompanyRegistration #IndiaStartup #Founder #Compliance #Noida #MCA",
+  "hooks": [
+    "Most founders come in with 5 documents. RoC wants 12. Here's the gap.",
+    "Your SPICe+ form accepted. RoC officer rejected. Here's why — and how to avoid it.",
+    "The 3 documents every guide forgets to mention before Pvt Ltd registration."
+  ],
+  "cta": "Comment DOCS and I'll DM you the 7-step founder setup doc.",
+  "sources": []
+}

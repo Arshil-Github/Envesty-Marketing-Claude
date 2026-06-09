@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "cycle": "2026-06_cycle-01",
+    "slot": "04_noida-17days",
+    "topic": "How we got a Noida founder from idea to incorporated + GST + live website in 17 working days",
+    "audience": "First-time founders and early-stage startups needing legal + tech + marketing",
+    "pillar": "proof",
+    "template": "T01_Cover"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "template": "T01_Cover",
+      "headline": "Pvt Ltd registered. GST filed. Landing page live. 17 working days.",
+      "subhead": "Here's the exact timeline for a Noida founder we worked with in early 2026."
+    },
+    {
+      "type": "stat",
+      "template": "T02_BigStat",
+      "stat": "17 days",
+      "subhead": "From first call to a fully operational business entity with GST number, CoI, and a live web presence. Same team the whole way."
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "The week-by-week timeline",
+      "left": {
+        "label": "Week 1 (Days 1–5)",
+        "body": "Day 1: discovery call + document checklist sent\nDays 2–3: DSC + DIN initiated, name search (MCA + IP India)\nDay 4: name reservation filed (SPICe+ Part A)\nDay 5: MOA/AOA drafted and reviewed with founder"
+      },
+      "right": {
+        "label": "Weeks 2–3 (Days 6–17)",
+        "body": "Days 6–10: SPICe+ Part B filed, MCA approval received\nDay 11: GST registration application submitted\nDays 12–14: Brand identity + copywriting\nDays 15–17: Landing page built, tested, and live\nDay 17: GST certificate received"
+      }
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "What we handed over on day 17",
+      "left": {
+        "label": "Legal & compliance",
+        "body": "Certificate of Incorporation\nPAN card (business)\nTAN\nGST registration certificate\nFirst nil-return filed and confirmed"
+      },
+      "right": {
+        "label": "Brand & marketing",
+        "body": "Brand kit (colours, fonts, logo)\nLanding page (live, mobile-optimised)\nLinkedIn company page set up\n30-day content calendar"
+      }
+    },
+    {
+      "type": "quote",
+      "template": "T04_Quote",
+      "headline": "I was expecting to chase 4 different vendors for 6 weeks. I came out with everything in 17 days.",
+      "attribution": "Founder, Noida (name withheld on request)"
+    },
+    {
+      "type": "cta",
+      "template": "T05_CTA",
+      "headline": "What does your timeline look like?",
+      "body": "Book a 20-min call — we'll walk your specific case and give you a real timeline and quote. No generics."
+    }
+  ],
+  "caption": "Pvt Ltd registered. GST filed. Landing page live.\n\n17 working days.\n\nHere's the exact timeline.\n\nA Noida-based founder came to us in early 2026. Needed to get a Pvt Ltd off the ground, get GST sorted, and have something live on the internet to show early clients.\n\nWeek 1:\n→ Day 1: Discovery call, document checklist shared\n→ Days 2–3: DSC + DIN initiated, MCA + IP India name search\n→ Day 4: Name reservation filed\n→ Day 5: MOA/AOA drafted and signed off\n\nWeeks 2–3:\n→ Days 6–10: SPICe+ filed, Certificate of Incorporation received\n→ Day 11: GST application submitted\n→ Days 12–14: Brand identity + landing page copy\n→ Days 15–17: Landing page built, live, and mobile-tested\n→ Day 17: GST certificate received\n\nWhat we handed over:\n Legal: CoI, PAN, TAN, GST certificate, first nil-return filed\n Brand: logo, brand kit, landing page, LinkedIn page, 30-day content plan\n\n\"I was expecting to chase 4 different vendors for 6 weeks. I came out with everything in 17 days.\"\n— Founder, Noida (name withheld on request)\n\nOne team. One timeline. One number to call.\n\nBook a 20-min slot and I'll build the same map for your situation.\n\n#IndiaStartup #PvtLtd #Noida #Founder #StartupIndia #BusinessSetup #Compliance",
+  "hooks": [
+    "Pvt Ltd + GST + live website in 17 working days. Here's the exact timeline.",
+    "What a Noida founder got when one team handled legal, tech, and marketing together.",
+    "Before: 4 vendors, unknown timeline. After: one team, 17 days. The breakdown."
+  ],
+  "cta": "Book a 20-min slot — we'll walk your specific case and quote a real number.",
+  "sources": []
+}

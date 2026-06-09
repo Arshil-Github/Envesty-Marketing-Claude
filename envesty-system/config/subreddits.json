@@ -1,0 +1,23 @@
+{
+  "list": [
+    {
+      "name": "Entrepreneur",
+      "weight": 0.7,
+      "filters": {
+        "min_score": 10
+      }
+    },
+    {
+      "name": "smallbusiness",
+      "weight": 0.7,
+      "filters": {
+        "min_score": 5
+      }
+    }
+  ],
+  "default_sorts": [
+    "new",
+    "top"
+  ],
+  "default_target_count": 50
+}

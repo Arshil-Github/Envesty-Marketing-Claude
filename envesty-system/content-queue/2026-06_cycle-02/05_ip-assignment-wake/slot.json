@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "cycle": "2026-06_cycle-02",
+    "slot": "05_ip-assignment-wake",
+    "topic": "One missing agreement can kill a deal — the IP assignment clause every founder misses",
+    "audience": "Founders who have or plan to hire developers, designers, or vendors",
+    "pillar": "education",
+    "template": "T01_Cover",
+    "format": "reel",
+    "duration_target_seconds": 60
+  },
+  "slides": [
+    {
+      "type": "scene",
+      "label": "Hook (0–8s)",
+      "script": "A founder I spoke to recently had a serious acquisition offer — call it a life-changing number. It fell apart in due diligence. The reason? The developer who built their core product — who'd left the company six months earlier — still technically owned the codebase. There was no IP assignment agreement.",
+      "direction": "Sushant direct-to-camera, talking head. Serious tone. No graphics needed — the story carries it."
+    },
+    {
+      "type": "scene",
+      "label": "Explain the mechanism (8–25s)",
+      "script": "Here's how this happens. When you hire a developer — especially a freelancer or vendor — work they create is theirs by default unless there's a written agreement that says otherwise. Most founders use a simple offer letter or a WhatsApp conversation. Neither of those transfers IP. An IP assignment agreement is a single document that says: everything you build for this company, while engaged with this company, belongs to the company. It takes 15 minutes to draft. It takes months to fix when it's missing.",
+      "direction": "Still talking head. Can cut to a simple text graphic showing: 'Written agreement required to transfer IP' vs. 'WhatsApp message ≠ IP transfer'."
+    },
+    {
+      "type": "scene",
+      "label": "Broaden it (25–45s)",
+      "script": "This isn't just about developers. It's your brand designer. Your CA who helped structure the company. Your co-founder who registered the domain in their personal name. Any of them can walk out the door holding something that belongs to your business — unless the agreement is in writing and it's specific. The three clauses that protect you: work-for-hire, confidentiality, and non-compete for the IP they created. You don't need a ₹5 lakh lawyer to draft these. You need someone to make sure they exist.",
+      "direction": "Slightly faster pace. Can show text overlays for 'work-for-hire / confidentiality / non-compete' as they're named."
+    },
+    {
+      "type": "scene",
+      "label": "CTA (45–60s)",
+      "script": "If you've hired anyone — developer, designer, CA, vendor — and you don't have a signed IP assignment in place, reply to this and I'll tell you exactly what to ask for. At Envesty, we include this as a standard part of every company setup we run. It should be default for every founder.",
+      "direction": "Direct to camera. Personal, not promotional. Friendly urgency."
+    }
+  ],
+  "caption": "A founder I know had a serious acquisition offer fall apart in due diligence.\n\nThe reason: their developer — who'd left 6 months earlier — still technically owned the codebase. No IP assignment agreement.\n\nThis is more common than people realise.\n\nWhen you hire someone — especially a freelancer or vendor — the work they create is legally theirs by default unless there's a written agreement that says otherwise. A WhatsApp conversation doesn't transfer IP. Neither does a basic offer letter.\n\nAn IP assignment agreement fixes this. It says: everything you build for this company, while working for this company, belongs to the company.\n\nThe three clauses you need in every employment and vendor agreement:\n1. Work-for-hire (all output belongs to the company)\n2. Confidentiality (they can't share what they built or learned)\n3. IP non-compete (the specific assets they created aren't theirs to reuse)\n\nYou don't need an expensive lawyer to add these. You need someone to make sure they're there.\n\nIf you've hired anyone without a signed IP assignment in place — reply to this. I'll tell you exactly what to ask for.\n\n#IPAssignment #IndianFounders #StartupLegal #BusinessSetup #FounderTips #StartupIndia",
+  "hooks": [
+    "An acquisition offer fell apart because a developer who left 6 months ago still owned the codebase.",
+    "Most Indian founders don't have an IP assignment agreement with their developers. Here's what that costs you."
+  ],
+  "cta": "If you've hired anyone without a signed IP assignment in place, reply to this — I'll tell you exactly what to ask for.",
+  "sources": [
+    "https://www.instagram.com/reel/DRUpU33j_DS",
+    "brand/envesty_brand_kit.md"
+  ]
+}

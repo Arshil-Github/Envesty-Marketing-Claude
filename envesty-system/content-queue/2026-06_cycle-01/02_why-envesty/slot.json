@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "cycle": "2026-06_cycle-01",
+    "slot": "02_why-envesty",
+    "topic": "Why I quit Howdy and started Envesty — what I'd do on day 1 now",
+    "audience": "First-time founders and early-stage startup founders",
+    "pillar": "founder",
+    "template": "T01_Cover"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "template": "T01_Cover",
+      "headline": "I co-founded a startup that raised ₹10 Cr. Then it stalled. Here's what I'd do on day 1 now.",
+      "subhead": "Sushant Choudhury, Co-founder Envesty"
+    },
+    {
+      "type": "stat",
+      "template": "T02_BigStat",
+      "stat": "₹10 Cr",
+      "subhead": "Raised by Howdy Ventures in 2016. The money didn't fix the operational chaos underneath."
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "What I did then vs. what I'd do now",
+      "left": {
+        "label": "Howdy (2016)",
+        "body": "4 vendors. 2 lawyers. 1 CA. No integration. Each had a different answer on the same question. Every week was a coordination sprint."
+      },
+      "right": {
+        "label": "Envesty (2025)",
+        "body": "One team. One timeline. One phone number. Legal, tech, and marketing move together — or they flag each other before they block the founder."
+      }
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "What actually kills early startups — what I saw vs. what I believed",
+      "left": {
+        "label": "What I believed",
+        "body": "Wrong product. Wrong market. Wrong timing. The usual startup autopsy."
+      },
+      "right": {
+        "label": "What I saw",
+        "body": "Compliance backlogs that froze fundraising. Vendor gaps no one owned. A founding team spending 30% of their week chasing status updates from four different people."
+      }
+    },
+    {
+      "type": "quote",
+      "template": "T04_Quote",
+      "headline": "The most expensive thing in your first year isn't your tech stack. It's the coordination cost of 5 vendors who don't talk to each other.",
+      "attribution": "Sushant Choudhury, Co-founder Envesty"
+    },
+    {
+      "type": "cta",
+      "template": "T05_CTA",
+      "headline": "What's your day 1 situation?",
+      "body": "DM me your situation — I'll share the exact setup I'd build if I were starting in India in 2025. No pitch."
+    }
+  ],
+  "caption": "I co-founded a startup that raised ₹10 Cr. Then it stalled.\n\nHere's what I'd do on day 1 now.\n\nHowdy Ventures was real. The raise was real. What I underestimated was the operational layer underneath the product.\n\n4 vendors. 2 lawyers. 1 CA. No one talking to each other.\n\nEvery week had the same pattern:\n→ Chase the CA for a compliance status\n→ Chase the lawyer for a contract\n→ Chase the dev agency for a timeline\n→ Chase everyone to talk to each other\n\nThe product wasn't wrong. The coordination was broken.\n\nThat's why I built Envesty — one accountable team for the legal, tech, and marketing layer a founder actually needs to move.\n\nWe're 16 months old. We don't have 100 clients. We have a small, real team and a process that works.\n\nIf you're starting a Pvt Ltd in India this year — DM me. I'll share the setup I'd build on day 1.\n\nNo pitch. Just the actual answer.\n\n#Founder #IndiaStartup #StartupIndia #Entrepreneurship #PvtLtd #FounderStory",
+  "hooks": [
+    "My first startup raised ₹10 Cr and still failed. Here's the mistake I didn't see coming.",
+    "The most expensive line item in a founder's first year is one nobody budgets for.",
+    "I didn't start Envesty because incorporation is broken. I started it because coordination is."
+  ],
+  "cta": "DM me — I'll send the timeline I built for the last founder in your situation.",
+  "sources": []
+}

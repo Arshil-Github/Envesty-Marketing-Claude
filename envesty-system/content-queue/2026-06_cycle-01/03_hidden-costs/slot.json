@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "cycle": "2026-06_cycle-01",
+    "slot": "03_hidden-costs",
+    "topic": "The real cost of ₹999 Pvt Ltd incorporation — what nobody quotes",
+    "audience": "First-time founders evaluating incorporation options",
+    "pillar": "transparency",
+    "template": "T01_Cover"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "template": "T01_Cover",
+      "headline": "₹999 Pvt Ltd incorporation. Here's the full bill nobody quotes.",
+      "subhead": "Transparency is the product."
+    },
+    {
+      "type": "stat",
+      "template": "T02_BigStat",
+      "stat": "₹8,000–22,000",
+      "subhead": "What a ₹999 incorporation realistically costs after government fees, DSC, stamp duty, and the 'strongly recommended' add-ons."
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "The advertised price vs. the actual invoice",
+      "left": {
+        "label": "The ₹999 promise",
+        "body": "Pvt Ltd registration: ₹999. No hidden charges. Fast and simple."
+      },
+      "right": {
+        "label": "The actual line items",
+        "body": "DSC (Class 3): ₹1,200–1,500\nDIN (per director): ₹500\nName reservation: ₹1,000\nMCA govt fee: ₹2,000–6,000 (state-dependent)\nStamp duty: ₹1,000–10,000 (state-dependent)\nPAN + TAN: ₹200"
+      }
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "The pattern that drives the real price up",
+      "left": {
+        "label": "What most services do",
+        "body": "Quote the agent fee only (₹999). Government fees, DSC, and stamp duty are 'extra.' Upsell Startup India registration, trademark filing, and 'compliance packages' after you've started."
+      },
+      "right": {
+        "label": "What Envesty does",
+        "body": "Quote the full number upfront — agent fee + all govt fees + stamp duty estimate for your state. What we quote is what you pay. No calls pushing add-ons."
+      }
+    },
+    {
+      "type": "quote",
+      "template": "T04_Quote",
+      "headline": "We publish the full number before you sign. If it ends up more than we quoted, we absorb the difference.",
+      "attribution": "Sushant Choudhury, Co-founder Envesty"
+    },
+    {
+      "type": "cta",
+      "template": "T05_CTA",
+      "headline": "Want a real quote for your situation?",
+      "body": "Comment QUOTE and I'll DM you a full line-item breakdown specific to your state and structure. No upsells. No follow-up calls you didn't ask for."
+    }
+  ],
+  "caption": "₹999 Pvt Ltd incorporation.\n\nHere's the full bill nobody quotes.\n\nThe ₹999 is the agent's fee. It covers their paperwork. It does not cover:\n\n→ DSC (Class 3 digital signature): ₹1,200–1,500 per director\n→ DIN (if your first directorship): ₹500\n→ Name reservation (RUN form): ₹1,000\n→ MCA government fees: ₹2,000–6,000 depending on authorized capital\n→ Stamp duty: ₹1,000–10,000 depending on your state\n→ PAN + TAN application: ₹200\n\nTotal before the upsell calls start: ₹8,000–22,000.\n\nThen comes the 'strongly recommended' GST registration, trademark filing, and annual compliance package.\n\nWe're not the cheapest option. We quote the real number — all government fees, all charges, your state — before you decide.\n\nIf you'd rather know the full cost upfront: comment QUOTE. I'll DM you a line-item breakdown for your specific situation.\n\nNo sales call. No follow-up. Just the number.\n\n#PvtLtd #CompanyRegistration #Transparency #IndiaStartup #Compliance #StartupIndia #Founder",
+  "hooks": [
+    "₹999 incorporation. The bill that lands after you sign is something else.",
+    "Nobody breaks down what Pvt Ltd registration actually costs in India. So I will.",
+    "The 'no hidden charges' incorporation ad. Here are the charges."
+  ],
+  "cta": "Comment QUOTE and I'll DM you a real line-item breakdown for your specific situation — no upsells.",
+  "sources": []
+}

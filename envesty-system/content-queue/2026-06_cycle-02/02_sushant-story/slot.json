@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "cycle": "2026-06_cycle-02",
+    "slot": "02_sushant-story",
+    "topic": "My first company raised ₹10 Cr. Here's what I'd do differently on day 1.",
+    "audience": "First-time founders and early-stage Indian entrepreneurs",
+    "pillar": "founder",
+    "template": "T01_Cover",
+    "format": "carousel"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "template": "T01_Cover",
+      "headline": "My first company raised ₹10 Cr at a ₹20 Cr valuation.",
+      "subhead": "It still didn't make it. Here's what I'd fix on day 1."
+    },
+    {
+      "type": "stat",
+      "template": "T02_BigStat",
+      "stat": "3 gaps",
+      "subhead": "Not funding. Not product. Three gaps we didn't close early enough — legal infrastructure, brand credibility, and vendor fragmentation. Envesty is the answer to all three."
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "Gap 1 — Legal infrastructure",
+      "left": {
+        "label": "What we did",
+        "body": "Used a template MOA. Skipped the co-founder agreement. No IP assignment for the domain or codebase. Found the gaps 18 months in."
+      },
+      "right": {
+        "label": "What I'd do now",
+        "body": "Day 1: shareholders agreement with vesting schedule + IP assignment to the company. Before the first hire. Before the first commit."
+      }
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "Gap 2 — Brand credibility",
+      "left": {
+        "label": "What we did",
+        "body": "Launched with inflated claims and stock-photo aesthetics. Felt 'professional.' Cost us trust with the investors and clients who actually checked."
+      },
+      "right": {
+        "label": "What I'd do now",
+        "body": "Real founders, real photos, honest stage framing. 'Since Feb 2025' beats '5+ years of expertise' — because serious people know how to verify."
+      }
+    },
+    {
+      "type": "quote",
+      "template": "T04_Quote",
+      "headline": "Gap 3 — Vendor fragmentation. Legal CA, GST CA, web agency, marketing agency — four vendors, four contracts, nobody owns the outcome. Every handoff is a delay and a blame gap. That's the exact problem Envesty is built to eliminate.",
+      "attribution": "Sushant Choudhury, Founder — Envesty (since Feb 2025)"
+    },
+    {
+      "type": "cta",
+      "template": "T05_CTA",
+      "headline": "DM me.",
+      "body": "I'll share the day-1 setup checklist I built after Howdy — what we now run every new Envesty client through before anything else."
+    }
+  ],
+  "caption": "My first company raised ₹10 Cr at a ₹20 Cr valuation.\n\nIt still didn't make it to profitability.\n\nI don't say that for sympathy. I say it because the three gaps that hurt us are the same ones I see in almost every founder we talk to at Envesty.\n\nGap 1 — Legal infrastructure\nWe used a template MOA. Skipped the co-founder agreement. No IP assignment for the domain or codebase. Found the gaps 18 months in, when it was expensive to fix.\n\nGap 2 — Brand credibility\nWe launched with inflated claims. Felt professional. Cost us trust with the investors and clients who actually looked us up.\n\nGap 3 — Vendor fragmentation\n4 vendors, 4 contracts, nobody owning the outcome. Every handoff was a delay. Every delay had someone else to blame.\n\nEnvesty is the answer I wish we'd had in 2016.\n\nDM me — I'll share the day-1 setup checklist I built after that experience. We now run every new client through it.\n\n— Sushant\n\n#FounderStory #StartupIndia #IndianFounders #Entrepreneurship #Envesty #LessonsLearned",
+  "hooks": [
+    "The ₹10 Cr raise didn't save us. Here's what would have.",
+    "I'm building Envesty to fix the three gaps that ended my first company."
+  ],
+  "cta": "DM me — I'll send the day-1 checklist I built after Howdy. We run every new Envesty client through it.",
+  "sources": [
+    "https://inc42.com/buzz/howdy-ventures-raises-1-5-mn-seed-funding/",
+    "brand/envesty_dossier.md"
+  ]
+}

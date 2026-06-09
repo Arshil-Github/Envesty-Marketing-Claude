@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "cycle": "2026-06_cycle-02",
+    "slot": "04_gstin-reveal",
+    "topic": "Your GSTIN isn't random — every character is a code that reveals your state, your PAN, and your registration type",
+    "audience": "First-time founders who just registered for GST or are about to",
+    "pillar": "education",
+    "template": "T01_Cover",
+    "format": "reel",
+    "duration_target_seconds": 35
+  },
+  "slides": [
+    {
+      "type": "scene",
+      "label": "Hook (0–5s)",
+      "script": "Tell me your GSTIN.",
+      "direction": "Two-person skit. Person A (the 'knower') asks Person B casually. Person B reads it out: '27AABCE1234F1Z5.' Person A immediately: 'Okay — Maharashtra, primary registration, not a branch.' Person B: 'Wait — how do you know that from just a number?'"
+    },
+    {
+      "type": "scene",
+      "label": "Reveal (5–20s)",
+      "script": "Your GSTIN is 15 characters. The first two are your state code — 27 is Maharashtra, 09 is Uttar Pradesh, 07 is Delhi. Characters 3 to 12 are your PAN exactly as registered. Character 13 tells you if this is your first GST registration in that state (1) or a branch (2, 3...). The last two are check digits.",
+      "direction": "Cut to a clean graphic showing the 15-character breakdown. Each segment highlights as it's named. No stock people — diagram only."
+    },
+    {
+      "type": "scene",
+      "label": "Why it matters (20–30s)",
+      "script": "Every bank, vendor, and GST officer reading your GSTIN already knows which state you're in, which entity you are, and whether this is your primary or branch registration. You should know what you're handing out.",
+      "direction": "Back to talking head. Sushant or founder direct-to-camera. Confident, not lecturing."
+    },
+    {
+      "type": "scene",
+      "label": "CTA (30–35s)",
+      "script": "Comment your state code below — I'll tell you which state it maps to. And if you're about to register for GST for the first time, reply and I'll walk you through what actually happens on the portal.",
+      "direction": "Direct CTA to camera. Comment-bait engagement mechanic."
+    }
+  ],
+  "caption": "Your GSTIN isn't random.\n\nEvery one of the 15 characters is a code:\n\n→ Characters 1–2: State code (09 = UP, 27 = Maharashtra, 07 = Delhi)\n→ Characters 3–12: Your PAN, exactly as registered\n→ Character 13: Registration type (1 = primary, 2 = second location in same state, and so on)\n→ Characters 14–15: Check digits assigned by the system\n\nEvery bank, vendor, and GST officer reading your GSTIN already knows your state, your PAN, and whether this is a head office or a branch. Before they say a word.\n\nYou should know what you're handing out.\n\nComment your state code below — I'll tell you which state it maps to.\n\n#GST #GSTRegistration #IndianFounders #StartupIndia #BusinessSetup #GSTRegistration #TaxIndia",
+  "hooks": [
+    "Tell me your GSTIN and I'll tell you your state, your PAN, and how many offices you have registered.",
+    "Your GSTIN has a hidden structure that every CA and GST officer already reads. Here's what it says about you."
+  ],
+  "cta": "Comment your state code below — I'll tell you which state it maps to.",
+  "sources": [
+    "https://www.gst.gov.in/",
+    "https://www.instagram.com/reel/DYCTnLHS33_"
+  ]
+}

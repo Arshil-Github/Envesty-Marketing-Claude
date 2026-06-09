@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "cycle": "2026-06_cycle-02",
+    "slot": "03_envesty-pricing",
+    "topic": "What working with Envesty actually costs — every number, before you ask",
+    "audience": "First-time founders comparing incorporation and compliance service providers",
+    "pillar": "transparency",
+    "template": "T01_Cover",
+    "format": "carousel"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "template": "T01_Cover",
+      "headline": "What does working with Envesty actually cost?",
+      "subhead": "Here's every number. Before you ask."
+    },
+    {
+      "type": "stat",
+      "template": "T02_BigStat",
+      "stat": "₹0",
+      "subhead": "What we charge for the first call. You should know if we're the right fit before you pay anything."
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "The industry pattern vs. our approach",
+      "left": {
+        "label": "What burned founders tell us",
+        "body": "Low headline price to sign up → calls after signing for 'recommended' add-ons → final bill 3–5× what was expected. No names. You've seen it."
+      },
+      "right": {
+        "label": "What we do",
+        "body": "Services free for a limited period while we build our client base. When we charge, every line item is visible before you sign — no surprises on call #2."
+      }
+    },
+    {
+      "type": "comparison",
+      "template": "T03_Comparison",
+      "headline": "Single-vendor route vs. Envesty bundle",
+      "left": {
+        "label": "Fragmented route",
+        "body": "Incorporation CA + GST CA + web agency + marketing agency = 4 vendors, 4 contracts, 4 people to blame when timelines slip."
+      },
+      "right": {
+        "label": "Envesty bundle",
+        "body": "Legal + Technology + Marketing + Consultation as one team. One timeline. One person accountable for the outcome."
+      }
+    },
+    {
+      "type": "quote",
+      "template": "T04_Quote",
+      "headline": "We built Envesty because the founders we were trying to reach had been burned before — and asking them to 'just call us' felt like asking them to trust blindly. We don't think trust works that way. So we publish the numbers.",
+      "attribution": "Sushant Choudhury, Founder — Envesty (since Feb 2025)"
+    },
+    {
+      "type": "cta",
+      "template": "T05_CTA",
+      "headline": "Book a 20-min slot.",
+      "body": "We'll walk your specific case and quote a real number. No follow-up upsell calls."
+    }
+  ],
+  "caption": "What does working with Envesty actually cost?\n\nShort answer: discovery call is free. Always.\n\nLonger answer — we're currently offering services free for a limited period while we build our client base and earn real reviews. When we move to paid, every package will be visible before you sign. No 'call us for pricing.'\n\nWhy are we even saying this?\n\nBecause the founders who find us have usually been through the other thing: the low headline price, the call after signing, the 'recommended add-ons,' the final bill that's 3× what they expected.\n\nWe built Envesty to be the answer to that. One team covering Legal + Tech + Marketing + Consultation. One timeline. One person accountable — not four vendors pointing at each other when something slips.\n\nIf that's what you're looking for: book a 20-min call. We'll walk your specific case and give you a real number.\n\nLink in bio.\n\n#Envesty #StartupIndia #IndianFounders #Incorporation #Compliance #Transparency #PvtLtd",
+  "hooks": [
+    "Most founders ask us the same first question. The answer is ₹0.",
+    "₹999 incorporation isn't cheap. Here's the bill nobody quotes — and what we do instead."
+  ],
+  "cta": "Book a 20-min slot — we'll walk your specific case and quote a real number.",
+  "sources": [
+    "brand/envesty_brand_kit.md",
+    "brand/envesty_dossier.md"
+  ]
+}
